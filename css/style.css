@@ -5,10 +5,7 @@
             text-align: center;
             
         }
-        footer {
-            text-align: center;
-            font-family: Arial, Helvetica, sans-serif;
-        }
+        
          
         
         .connnectivity {
@@ -20,4 +17,11 @@
             font-size: 40px;
             display: block;
             text-align: center;
+        }
+
+        footer {
+            
+            display: flex;
+            justify-content: center;
+            font-family: Arial, Helvetica, sans-serif;
         }
